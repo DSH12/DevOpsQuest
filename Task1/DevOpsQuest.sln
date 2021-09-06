@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevOpsQuest", "DevOpsQuest.csproj", "{3D954655-0562-49C5-90FA-AE1AE78EDBBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D954655-0562-49C5-90FA-AE1AE78EDBBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D954655-0562-49C5-90FA-AE1AE78EDBBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D954655-0562-49C5-90FA-AE1AE78EDBBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D954655-0562-49C5-90FA-AE1AE78EDBBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {821968CB-18D8-4EC7-BFF9-8424E0729D62}
+	EndGlobalSection
+EndGlobal
